@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	변경
+	초기셋팅
 </body>
 </html>
